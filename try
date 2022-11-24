@@ -1,0 +1,344 @@
+#Tip1
+c
+line
+python code
+
+python code
+
+------
+
+#Tip9
+The end is nigh.
+
+The end is nigh.
+
+------
+
+#Tip12
+
+turn into upper case: abcd
+turn into lower case: ABCD
+revert case: AbCd
+
+------
+#Tip16
+
+calculate the answer of 5+5
+
+------
+#Tip20
+Enter into SELECT mode: haha
+
+------
+#Tip23
+<a href="#">one</a>
+<a href="#">two</a>
+<a href="#">three</a>
+
+<a href="#">one</a>
+<a href="#">two</a>
+<a href="#">three</a>
+
+------
+#Tip25
+url('/images/sprite.png');
+url('/images/sprite.png');
+url('/images/sprite.png');
+
+url('/images/sprite.png');
+url('/images/sprite.png');
+url('/images/sprite.png');
+
+------
+#Tip30
+comment below three lines with java style:
+//line 1
+//line 2
+//line 3
+
+------
+#Tip35
+
+go to file d/try-vim/tip35.py
+run in the vim
+
+------
+#Tip45
+:edit newfile
+:edit newdir/newfile
+
+------
+#Tip49
+open emails.csv, and then sort by second column
+
+------
+#Tip48
+This is a looooooooooooooooooooooooooooooooooooonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg lllllllllllliiiiiiiiiiiiiiiinnnnnnnnnnnnnnnnnneeeeeeeeeeeeeeeeeeeeeeeeeee. And it is wrapped.
+
+This is a looooooooooooooooooooooooooooooooooooonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg lllllllllllliiiiiiiiiiiiiiiinnnnnnnnnnnnnnnnnneeeeeeeeeeeeeeeeeeeeeeeeeee. And it is wrapped.
+
+------
+#Tip49
+moving through words
+MOVING .THROUGH. "WORD"
+
+moving through words
+
+------
+
+#Tip50
+
+This is the first part, please delete the second half of this sentence.
+
+This is the first part, please delete the second half of this sentence.
+
+------
+
+#Tip51
+search for your target
+it only takes a moment
+to get where you want
+
+--Use visual mode--
+This phrase takes time but
+eventually gets to the point.
+
+--Use d{motion}--
+This phrase takes time but
+eventually gets to the point.
+
+------
+
+#Tip52
+'<a href="url">{title}</a>'
+'<a href="url">{title}</a>'
+'<a href="url">{title}</a>'
+
+----------*---------------
+'<a href="url">{title}</a>'
+'<a href="url">{title}</a>'
+'<a href="url">{title}</a>'
+
+------
+
+#Tip53
+This is the first sentence. This is a second one. The is the end of this paragraph.
+
+------
+
+#Tip54
+mark1
+
+mark2
+
+mark3
+
+------
+
+#Tip55
+console.log([{'a':1},{'b':2}])
+
+[something]
+------
+
+cities = %w{London Berlin New\ York}
+cities = %w{London Berlin New\ York}
+
+------
+
+#Tip60
+
+# correct by switching letter
+Practica lvim
+Practica lvim
+
+# correct by switching lines
+2) line two
+1) line one
+3) line three
+
+# copy this line
+the line to be copied
+
+--------------
+
+#Tip61
+
+# copy the word to register a & line to resigter b
+word
+
+# use copy-specific register
+collection = getCollection();
+procerss(somethingInTheWay, target);
+
+# use naming-register (a) to do the same thing
+collection = getCollection();
+procerss(somethingInTheWay, target);
+
+# black hole register to delete
+collection = getCollection();
+procerss(somethingInTheWay, target);
+
+# copy inside out with system clipboard
+copy something to here in normal mode:
+copy something to here in insert mode:
+copy this word to outside: haha
+
+# "= register
+calculate 2 + 2 in insert mode without quit:
+
+# inherit registers
+current file name:
+rotate file name:
+last insert text:
+last executed Ex commend:
+last match pattern:
+
+--------------
+
+#Tip62
+# solve the same problem using visual-switch approach
+collection = getCollection();
+procerss(somethingInTheWay, target);
+
+# switch two words
+I like fish and chips.
+
+--------------
+
+#Tip63
+collection = getCollection();
+procerss(collection, target);
+
+# use insert mode to solve the problem and benefit from . action
+collection = getCollection();
+procerss(somethingInTheWay, target);
+
+# linewise paste behavior
+<table>
+       #*yap from here, compare P & gP
+
+	<tr>
+		<td>Symbol</td>
+		<td>Name</td>
+	</tr>
+
+</table>
+
+--------------
+
+#Tip65
+foo = 1
+bar = 'a'
+foobar = foo + bar
+
+--------------
+
+#Tip66
+executemacromultipletimes
+executemacromultipletimes
+executemacromultipletimes
+executemacromultipletimes
+executemacromultipletimes
+executemacromultipletimes
+
+--------------
+
+#Tip67
+# use dot pattern
+x = "("+a+","+b+","+c+","+d+","+e+")";
+# use macro
+x = "("+a+","+b+","+c+","+d+","+e+")";
+
+--------------
+
+#Tip68
+
+1. one
+2. two
+3. three
+4. four
+
+1. one
+2. two
+3. three
+// comment
+4. four
+
+--------------
+
+#Tip69
+
+1. one
+2. two
+3. three
+4. four
+
+--------------
+
+#Tip70
+
+goto code/macros/ruby_module
+
+--------------
+
+#Tip74
+
+# match with magic search mode
+# match with very magic search mode
+body      { color: #3c3c3c; }
+a         { color: #0000EE; }
+strong    { color: #000; }
+
+--------------
+
+#Tip75
+
+The N key searches backward...
+...the \v pattern switch (a.k.a. very magic search)...
+
+--------------
+
+#Tip76
+
+# match the words duplication
+I love Paris in the
+the springtime.
+
+--------------
+
+#Tip77
+
+# search the
+the problem with these new recruits is that
+they don't keep their boots clean.
+
+--------------
+
+#Tip78
+
+# highlight search content inside ""
+Match "quote words" --- not quote marks.
+
+--------------
+
+#Tip79
+
+Search items: [http://vimdoc.net/search?q=/\\][s]
+...
+[s]: http://vimdoc.net/search?q=/\\
+
+--------------
+
+#Tip83
+
+# use imperfect . approach
+# ...but you know there will be problems
+Aim to learn a new programming lang each year.
+Which lang did you pick up last year.
+Which lang would you like to learn.
+
+# perfect way is...
+Aim to learn a new programming lang each year.
+Which lang did you pick up last year.
+Which langs would you like to learn.
