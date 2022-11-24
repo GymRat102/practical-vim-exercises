@@ -342,3 +342,35 @@ Which lang would you like to learn.
 Aim to learn a new programming lang each year.
 Which lang did you pick up last year.
 Which langs would you like to learn.
+
+--------------
+
+#Tip84
+
+class XhtmlDocument < XmlDocument; end
+class XhtmlTag < XmlTag; end
+
+--------------
+
+#Tip85
+
+This string contains a 'quoted' word.
+This string contains 'two' quoted 'words.'
+This 'string doesn't make things easyl'
+
+--------------
+
+#Tip86
+
+var buttons = viewport.buttons;
+viewport.buttons.previous.show();
+viewport.buttons.next.show();
+viewport.buttons.index.hide();
+
+--------------
+
+#Tip87
+
+She sells sea shells by the sea shore.
+She sells sea shells by the sea shore.
+
